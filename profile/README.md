@@ -1,7 +1,7 @@
 #BabyGrowth+
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/BabyGrowth+/.github/main/profile/assets/BabyGrowth+.png">
+    <img src="https://raw.githubusercontent.com/BabyGrowth/.github/main/profile/assets/BabyGrowth+.png">
 </div>
 
 <p align="center">"<i>Better Nutrition Monitoring for Your Baby</i>"</p>
@@ -16,17 +16,17 @@ The target of our application is around mothers who are pregnant, and mothers wh
 
 ## Application overview
 <div align="left">
-    <img src="https://raw.githubusercontent.com/BabyGrowth+/.github/main/profile/assets/Splash Screen.png">
-    <img src="https://raw.githubusercontent.com/BabyGrowth+/.github/main/profile/assets/Sign in.png">
-    <img src="https://raw.githubusercontent.com/BabyGrowth+/.github/main/profile/assets/Home.png">
-    <img src="https://raw.githubusercontent.com/BabyGrowth+/.github/main/profile/assets/Kamera.png">
-    <img src="https://raw.githubusercontent.com/BabyGrowth+/.github/main/profile/assets/Deteksi.png">
+    <img src="https://raw.githubusercontent.com/BabyGrowth/.github/main/profile/assets/Splash Screen.png">
+    <img src="https://raw.githubusercontent.com/BabyGrowth/.github/main/profile/assets/Sign in.png">
+    <img src="https://raw.githubusercontent.com/BabyGrowth/.github/main/profile/assets/Home.png">
+    <img src="https://raw.githubusercontent.com/BabyGrowth/.github/main/profile/assets/Kamera.png">
+    <img src="https://raw.githubusercontent.com/BabyGrowth/.github/main/profile/assets/Deteksi.png">
 </div>
 
 ## Bangkit 2023 CH2-PS434 Team Members
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/BabyGrowth+/.github/main/profile/assets/OurTeam.png">
+    <img src="https://raw.githubusercontent.com/BabyGrowth/.github/main/profile/assets/OurTeam.png">
 </div>
 
 | Members                                  | Github                                                                                                                                            |
